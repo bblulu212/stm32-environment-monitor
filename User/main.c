@@ -5,7 +5,7 @@
 #include "Key.h"
 #include "Timer.h"
 #include "DHT11.h"
-#include "ADC.h"
+#include "adc.h"
 #include "bsp_bmp180.h"
 
 
