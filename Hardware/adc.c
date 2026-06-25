@@ -1,4 +1,4 @@
-#include "ADC.h"
+#include "aDC.h"
 #include "Delay.h"
 
 uint16_t adc_value_ch0 = 0; // 光照强度
