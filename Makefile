@@ -12,7 +12,6 @@ LDFLAGS = -mcpu=cortex-m3 -mthumb -Tstm32f103c8.ld
 LDFLAGS += -Wl,--gc-sections -specs=nano.specs -specs=nosys.specs
 
 SRCS = \
-	Start/core_cm3.c \
 	Start/system_stm32f10x.c \
 	Library/misc.c \
 	Library/stm32f10x_adc.c \
